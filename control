@@ -1,0 +1,10 @@
+Package: com.apple.test
+Name: test
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ios17 imgui test
+Maintainer: DrPerky
+Author: DrPerky
+Section: Tweaks
+Homepage: https://drperky.store
